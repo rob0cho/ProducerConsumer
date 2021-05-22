@@ -1,9 +1,5 @@
 /*
     Name: Robert Choate
-    RedID: 823891010
-    Account: cssc3308
-    CS570, Spring 2021
-    Assignment #4, mizzo
 */
 
 #include <iostream>

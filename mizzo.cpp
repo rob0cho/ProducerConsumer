@@ -1,23 +1,10 @@
 /*
     Name: Robert Choate
-    RedID: 823891010
-    Account: cssc3308
-    CS570, Spring 2021
-    Assignment #4, mizzo
 */
 
 #include "producer.cpp"
 #include "consumer.cpp"
 #include "io.c"
-
-/*
-                    Single Programmer Affidavit
-I the undersigned promise that the attached assignment is my own work. 
-While I was free to discuss ideas with others, the work contained is my own. 
-I recognize that should this not be the case, I will be subject to penalties 
-as outlined in the course syllabus. 
-                ___Robert Choate, redID: 823891010___
-*/
 
 int main(int argc, char** argv) {
     

@@ -1,8 +1,4 @@
 #    Name: Robert Choate
-#    RedID: 823891010
-#    Account: cssc3308
-#    CS570, Spring 2021
-#    Assignment #4, Makefile
 
 # This makefile supports separate compilation vs compiling all at once
 CC=g++
